@@ -1,0 +1,15 @@
+# large / third-party / machine-local - restored by the steps in README "Setup on a new machine"
+pylibs/
+models/
+modules/
+import_modules.py
+.claude-flow/
+pip.log
+pip.err
+*.1.toe
+*.toe.dir
+*.toc
+Backup/
+__pycache__/
+tools/*.txt
+build/last_build.log
